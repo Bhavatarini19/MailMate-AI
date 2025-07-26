@@ -1,6 +1,6 @@
 {
-  "name": "Email Writer Assistant",
-  "description": "AI-powered email reply generator",
+  "name": "MailMate-AI",
+  "description": "AI-powered extension that generates intelligent, ready-to-send email replies directly inside Gmail — all with one click.",
   "version": "1.0",
   "manifest_version": 3,
   "permissions": ["activeTab", "storage"],
@@ -23,6 +23,7 @@
     }
    ],
   "action": {
-    "default_title": "Email Writer Assistant"
+    "default_title": "MailMate-AI",
+    "default_icon": "MailMateAI.png"
   }
 }

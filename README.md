@@ -1,6 +1,6 @@
 # MailMate AI
 
-**MailMate AI** is a production-ready Chrome Extension that integrates directly with Gmail to generate smart, AI-powered email replies using Google’s Gemini API. This project showcases full-stack engineering through real-world browser scripting, secure API interaction, and AI-powered automation — all built for a seamless user experience inside Gmail.
+**MailMate AI** is a production-ready Chrome Extension that integrates directly with Gmail to generate smart, AI-powered email replies using Google’s Gemini API. This project showcases full-stack engineering through real-world browser scripting, secure API interaction, and AI-powered automation all built for a seamless user experience inside Gmail.
 
 ---
 
@@ -38,17 +38,9 @@
 
 ---
 
-## 🔁 How It Works
+## 📽️ Demo
 
-Gmail Compose  
-⬇️  
-Chrome Extension  
-⬇️  
-Spring Boot API  
-⬇️  
-Gemini API  
-⬇️  
-Reply Inserted into Gmail
+![MailMate AI Demo](assets/MailMateAIDemo.gif)
 
 ---
 
