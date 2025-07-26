@@ -4,6 +4,12 @@
 
 ---
 
+## 📽️ Demo
+
+![MailMate AI Demo](assets/MailMateAIDemo.gif)
+
+---
+
 ## 🧰 Tech Stack
 
 - **Chrome Extension**: JavaScript, HTML, CSS
@@ -35,12 +41,6 @@
 
 - **Gemini API Integration**  
   Connects with Google's Gemini API to return AI-based email responses tailored to tone and context.
-
----
-
-## 📽️ Demo
-
-![MailMate AI Demo](assets/MailMateAIDemo.gif)
 
 ---
 
